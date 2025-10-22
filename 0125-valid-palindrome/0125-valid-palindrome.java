@@ -1,9 +1,8 @@
-class Solution 
-{
+class Solution {
     public boolean isPalindrome(String s) 
     {
-        s = s.toLowerCase();
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb=new StringBuilder();
+        s=s.toLowerCase();
         for(int i=0;i<s.length();i++)
         {
             char ch=s.charAt(i);
