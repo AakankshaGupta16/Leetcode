@@ -10,12 +10,12 @@ class Solution {
             if(nums[l]<=nums[mid])
             {
                 ans=Math.min(ans,nums[l]);
-                l=l+1;
+                l=mid+1;
             }
             else
             {
                 ans=Math.min(ans,nums[mid]);
-                h=h-1;
+                h=mid-1;
             }
         }
         return ans;
