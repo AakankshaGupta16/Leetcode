@@ -10,7 +10,5 @@ class Solution {
             maxpro=Math.max(maxpro,prices[i]-minpri);
         }
         return maxpro;
-    
     }
-
 }
