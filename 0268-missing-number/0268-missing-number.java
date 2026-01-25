@@ -1,13 +1,17 @@
 class Solution {
     public int missingNumber(int[] nums) 
     {
-        int xor1=0,xor2=0;
-        int n= nums.length;
+        int n=nums.length;
+        int hash[]=new int[n+1];
         for(int i=0;i<n;i++)
         {
-        xor1=xor1^nums[i];
-        xor2=xor2^(i+1);
+            hash[nums[i]]++;
         }
-        return xor1^xor2;
+        for(int i=0;i<=n;i++)
+        {
+            if(hash[i]==0)
+            return i;
+        }
+        return -1;
     }
 }
