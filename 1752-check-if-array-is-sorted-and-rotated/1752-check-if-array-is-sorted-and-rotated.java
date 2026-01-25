@@ -6,9 +6,9 @@ class Solution {
         {
             if(nums[i]>nums[(i+1)%n])
             c++;
-            if(c>1)
-            return false;
+            if(c>1) return false;
         }
         return true;
+
     }
 }
