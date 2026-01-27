@@ -1,19 +1,29 @@
 class Solution {
     public int majorityElement(int[] arr) 
     {
+        int candidate=0;int c=0;
         int n=arr.length;
-        Map<Integer,Integer> mpp=new HashMap<>();
+
         for(int i=0;i<n;i++)
         {
-            int val=mpp.getOrDefault(arr[i],0);
-            mpp.put(arr[i],val+1);
+
+            if(c==0) 
+            {
+                candidate=arr[i];
+                c=1;
+            }
+            else if(candidate==arr[i]) c++;
+            else c--;
         }
-        for(Map.Entry<Integer,Integer> it:mpp.entrySet())
+        int count=0;
+        for(int i=0;i<n;i++)
         {
-            if(it.getValue()>(n/2)) 
-            return it.getKey();
+            if(arr[i]==candidate) 
+            count++;
         }
-        return -1;
+        if(count>n/2)
+        return candidate;
+        else return -1;
 
         
     }
