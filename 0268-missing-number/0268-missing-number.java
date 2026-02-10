@@ -3,11 +3,10 @@ class Solution
     public int missingNumber(int[] nums) 
     {
         int n = nums.length;
-        int hash[] = new int[n + 1];
-        for (int i = 0; i < n; i++) 
-            hash[nums[i]]++;
-        for (int i = 0; i <= n; i++)
-            if (hash[i] == 0) return i;
-        return -1; // never reached
+        int s=0;
+        int sum=n*(n+1)/2;
+        for(int i=0;i<n;i++)
+        s=s+nums[i];
+        return sum-s;
     }
 }
