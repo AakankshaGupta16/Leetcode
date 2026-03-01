@@ -7,14 +7,15 @@ class Solution {
         reverse(nums,0,k-1);
         reverse(nums,k,n-1);
         
+        
     }
-    public void reverse(int arr[], int s, int e)
+    public void reverse(int nums[],int s,int e)
     {
         for(int i=0;i<(e-s+1)/2;i++)
-        {
-            int t=arr[s+i];
-            arr[s+i]=arr[e-i];
-            arr[e-i]=t;
-        }
+       {
+        int t=nums[s+i];
+        nums[s+i]=nums[e-i];
+        nums[e-i]=t;
+       }
     }
 }
