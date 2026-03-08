@@ -6,27 +6,44 @@ class Solution
     {
         int r=matrix.length;
         int c=matrix[0].length;
-        int rows[]=new int[r];
-        int cols[]=new int[c];
+        boolean fr=false,fc=false;
         for(int i=0;i<r;i++)
         {
-            for(int j=0;j<c;j++)
+            if(matrix[i][0]==0) fc=true; 
+        }
+        for(int i=0;i<c;i++)
+        {
+            if(matrix[0][i]==0) fr=true;
+        }
+        for(int i=1;i<r;i++)
+        {
+            for(int j=1;j<c;j++)
             {
-                if(matrix[i][j]==0)
+                if(matrix[i][j] == 0)
                 {
-                    rows[i]=1;
-                    cols[j]=1;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
+                }
+                
+            }
+
+        }
+          for(int i = 1; i < r; i++)
+        {
+            for(int j = 1; j < c; j++)
+            {
+                if(matrix[i][0] == 0 || matrix[0][j] == 0)
+                {
+                    matrix[i][j] = 0;
                 }
             }
         }
         for(int i=0;i<r;i++)
-        {
-            for(int j=0;j<c;j++)
-            {
-                if(rows[i]==1 || cols[j]==1)
-                matrix[i][j]=0;
-            }
-        }
+        if(fr) matrix[i][0]=0;
+        for(int i=0;i<c;i++)
+        if(fc) matrix[0][i]=0;
+
+        
     }
 
       
