@@ -10,7 +10,7 @@ class Solution
        int longest=0;
        for(int num:nums)
        set.add(num);
-       for(int num:nums)
+       for(int num:set)
        {
             if(!set.contains(num-1))
             {
