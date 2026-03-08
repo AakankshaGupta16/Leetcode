@@ -38,11 +38,17 @@ class Solution
                 }
             }
         }
-        for(int i=0;i<r;i++)
-        if(fr) matrix[i][0]=0;
-        for(int i=0;i<c;i++)
-        if(fc) matrix[0][i]=0;
-
+        
+        if(fr)
+        {
+            for(int i=0;i<c;i++) 
+             matrix[0][i]=0;
+        }
+        if(fc)
+        {
+            for(int i=0;i<r;i++)
+            matrix[i][0]=0;
+        }
         
     }
 
