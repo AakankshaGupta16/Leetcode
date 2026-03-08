@@ -14,6 +14,7 @@ Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -22,6 +23,7 @@ Leetcode Solutions
 | [0001-two-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -72,4 +74,8 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
