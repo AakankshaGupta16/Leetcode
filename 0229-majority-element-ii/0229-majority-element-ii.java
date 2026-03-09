@@ -24,8 +24,14 @@ class Solution {
                 c2--;
             }
        }
-        if(c1>n/3) ans.add(cand1);
-        if(c2>n/3) ans.add(cand2);
+       int count1=0,count2=0;
+       for(int num:nums)
+       {
+        if(num==cand1) count1++;
+        if(num==cand2) count2++;
+       }
+        if(count1>n/3) ans.add(cand1);
+        if(count2>n/3) ans.add(cand2);
         return ans;
     }
 }
