@@ -28,10 +28,10 @@ class Solution {
        for(int num:nums)
        {
         if(num==cand1) count1++;
-        if(num==cand2) count2++;
+        if(num==cand2 ) count2++;
        }
         if(count1>n/3) ans.add(cand1);
-        if(count2>n/3) ans.add(cand2);
+        if(count2>n/3 && cand2 != cand1) ans.add(cand2);
         return ans;
     }
 }
