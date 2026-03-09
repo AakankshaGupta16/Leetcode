@@ -1,59 +1,27 @@
 class Solution {
-
-    int MOD = 1000000007;
-
     public int numberOfStableArrays(int zero, int one, int limit) {
+        final int mod = 1_000_000_007;
+        int L = limit + 1;
 
-        long[][][][] dp = new long[zero + 1][one + 1][2][limit + 1];
+        int[][] dp0 = new int[zero + 1][one + 1]; // i 0s + j 1s ending with 0
+        int[][] dp1 = new int[zero + 1][one + 1]; // i 0s + j 1s ending with 1
 
-        if (zero > 0)
-            dp[1][0][0][1] = 1;
+        // Base cases: only zeros or only ones => only one string if len <= min(limit, zero/one)
+        for (int i = 1; i <= Math.min(zero, limit); ++i) dp0[i][0] = 1;
+        for (int j = 1; j <= Math.min(one, limit); ++j) dp1[0][j] = 1;
 
-        if (one > 0)
-            dp[0][1][1][1] = 1;
+        // DP iterations
+        for (int i = 1; i <= zero; ++i) {
+            for (int j = 1; j <= one; ++j) {
+                dp0[i][j] = (dp0[i - 1][j] + dp1[i - 1][j] - (i >= L ? dp1[i - L][j] : 0)) % mod;
+                dp1[i][j] = (dp1[i][j - 1] + dp0[i][j - 1] - (j >= L ? dp0[i][j - L] : 0)) % mod;
 
-        for (int z = 0; z <= zero; z++) {
-            for (int o = 0; o <= one; o++) {
-
-                for (int last = 0; last < 2; last++) {
-
-                    for (int run = 1; run <= limit; run++) {
-
-                        long cur = dp[z][o][last][run];
-                        if (cur == 0) continue;
-
-                        if (last == 0) {
-
-                            if (z + 1 <= zero && run + 1 <= limit)
-                                dp[z + 1][o][0][run + 1] =
-                                        (dp[z + 1][o][0][run + 1] + cur) % MOD;
-
-                            if (o + 1 <= one)
-                                dp[z][o + 1][1][1] =
-                                        (dp[z][o + 1][1][1] + cur) % MOD;
-
-                        } else {
-
-                            if (o + 1 <= one && run + 1 <= limit)
-                                dp[z][o + 1][1][run + 1] =
-                                        (dp[z][o + 1][1][run + 1] + cur) % MOD;
-
-                            if (z + 1 <= zero)
-                                dp[z + 1][o][0][1] =
-                                        (dp[z + 1][o][0][1] + cur) % MOD;
-                        }
-                    }
-                }
+                // Fix negatives
+                dp0[i][j] = (dp0[i][j] + mod) % mod;
+                dp1[i][j] = (dp1[i][j] + mod) % mod;
             }
         }
 
-        long ans = 0;
-
-        for (int run = 1; run <= limit; run++) {
-            ans = (ans + dp[zero][one][0][run]) % MOD;
-            ans = (ans + dp[zero][one][1][run]) % MOD;
-        }
-
-        return (int) ans;
+        return (dp0[zero][one] + dp1[zero][one]) % mod;
     }
 }
