@@ -1,19 +1,23 @@
 class Solution {
     public String reverseWords(String s) 
     {
-        s = s.trim();
-        String words[] = s.split("\\s+");
+        String res = "";
+        int n = s.length();
 
-        StringBuilder sb = new StringBuilder();
-
-        for(int i = words.length - 1; i >= 0; i--)
+        for(int i = n - 1; i >= 0; )
         {
-            sb.append(words[i]);
+            while(i >= 0 && s.charAt(i) == ' ')//SKIP SPACE
+                i--;
+            //if(i < 0) break;
 
-            if(i != 0)
-                sb.append(" ");
+            int j = i;//MARK END OF WORD
+
+            while(i >= 0 && s.charAt(i) != ' ')//MOVE UNTIL YOU FIND A WORD START
+                i--;
+
+            res = res + s.substring(i + 1, j + 1) + " ";
         }
 
-        return sb.toString();
+        return res.trim();
     }
 }
