@@ -46,6 +46,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Leetcode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
