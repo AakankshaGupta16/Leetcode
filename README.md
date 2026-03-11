@@ -41,6 +41,7 @@ Leetcode Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakankshaGupta16/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -50,6 +51,7 @@ Leetcode Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakankshaGupta16/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -61,6 +63,7 @@ Leetcode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakankshaGupta16/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AakankshaGupta16/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
