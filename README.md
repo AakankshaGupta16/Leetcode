@@ -59,6 +59,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -119,4 +120,8 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
