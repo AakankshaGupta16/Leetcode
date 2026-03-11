@@ -25,6 +25,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/AakankshaGupta16/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -60,6 +61,7 @@ Leetcode Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/AakankshaGupta16/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -95,6 +97,7 @@ Leetcode Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Prefix Sum
