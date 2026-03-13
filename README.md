@@ -18,6 +18,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1470-shuffle-the-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
