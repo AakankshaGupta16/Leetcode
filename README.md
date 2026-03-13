@@ -19,6 +19,7 @@ Leetcode Solutions
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -62,6 +63,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1929-concatenation-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
