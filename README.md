@@ -28,6 +28,7 @@ Leetcode Solutions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/AakankshaGupta16/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Leetcode Solutions
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/AakankshaGupta16/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Leetcode Solutions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/AakankshaGupta16/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
