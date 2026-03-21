@@ -156,6 +156,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bit Manipulation
@@ -213,4 +214,16 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
