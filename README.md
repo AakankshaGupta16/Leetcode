@@ -101,6 +101,7 @@ Leetcode Solutions
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
