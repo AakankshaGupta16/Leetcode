@@ -28,6 +28,7 @@ Leetcode Solutions
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AakankshaGupta16/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -108,6 +109,7 @@ Leetcode Solutions
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
@@ -206,6 +208,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
