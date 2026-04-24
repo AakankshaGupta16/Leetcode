@@ -113,6 +113,7 @@ Leetcode Solutions
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/AakankshaGupta16/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/AakankshaGupta16/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
