@@ -19,6 +19,7 @@ Leetcode Solutions
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -132,6 +133,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -141,6 +143,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -275,6 +278,7 @@ Leetcode Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -287,6 +291,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
