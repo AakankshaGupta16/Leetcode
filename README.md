@@ -28,6 +28,7 @@ Leetcode Solutions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AakankshaGupta16/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -150,6 +151,7 @@ Leetcode Solutions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -165,6 +167,7 @@ Leetcode Solutions
 | [1622-fancy-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -188,6 +191,7 @@ Leetcode Solutions
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Counting
