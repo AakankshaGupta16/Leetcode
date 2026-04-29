@@ -137,6 +137,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -258,6 +259,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@ Leetcode Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -306,6 +309,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Enumeration
