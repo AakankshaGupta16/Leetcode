@@ -37,6 +37,7 @@ Leetcode Solutions
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -75,6 +76,7 @@ Leetcode Solutions
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Leetcode Solutions
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AakankshaGupta16/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -182,6 +185,7 @@ Leetcode Solutions
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
