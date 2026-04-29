@@ -6,7 +6,7 @@ class Solution {
         boolean vis[]=new boolean[v];
         for(int i=0;i<v;i++)
         {
-            if(!vis[i])
+            if(vis[i]==false)
             {
                 c++;
                 dfs(i, vis,isConnected,v);
@@ -19,9 +19,9 @@ class Solution {
         vis[node]=true;
         for(int j=0;j<v;j++)
         {
-            if(isConnected[node][j]==1 && !vis[j])
+            if(isConnected[node][j]==1 && vis[j]==false)
             dfs(j, vis,isConnected, v);
         }
-
     }
 }
+
