@@ -17,6 +17,7 @@ Leetcode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/AakankshaGupta16/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -74,6 +75,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -174,6 +176,7 @@ Leetcode Solutions
 | [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1622-fancy-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
