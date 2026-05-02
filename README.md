@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -176,6 +177,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0788-rotated-digits/) | Medium |
