@@ -44,14 +44,14 @@ class Solution
         while(!q.isEmpty())
         {
             Pair p=q.poll();
-            int row=p.r;
-            int col=p.c;
+            int r=p.r;
+            int c=p.c;
             int t=p.t;
             tm=Math.max(tm,t);
             for(int i=0;i<4;i++)
             {
-                int nrow=row+drow[i];
-                int ncol=col+dcol[i];
+                int nrow=r+drow[i];
+                int ncol=c+dcol[i];
                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1)
                 {
                     q.add(new Pair(nrow,ncol,t+1));
