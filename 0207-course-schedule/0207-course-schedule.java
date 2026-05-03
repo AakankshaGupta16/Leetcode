@@ -1,50 +1,42 @@
 class Solution {
 
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        // Step 1: Build graph
+    public boolean canFinish(int numCourses, int[][] prerequisites) 
+    {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-
-        for (int i = 0; i < numCourses; i++) {
+        for(int i = 0; i < numCourses; i++) {
             adj.add(new ArrayList<>());
         }
 
-        for (int[] pre : prerequisites) {
-            adj.get(pre[1]).add(pre[0]); // b -> a
+        for(int e[] : prerequisites) {
+            int u = e[0];
+            int v = e[1];
+            adj.get(v).add(u); // v -> u
         }
 
-        // 0 = unvisited, 1 = visiting, 2 = visited
-        int[] vis = new int[numCourses];
+        int vis[] = new int[numCourses]; // 0,1,2 states
 
-        // Step 2: DFS on each node
-        for (int i = 0; i < numCourses; i++) {
-            if (vis[i] == 0) {
-                if (dfs(i, vis, adj)) {
-                    return false; // cycle → can't finish
-                }
+        for(int i = 0; i < numCourses; i++) {
+            if(vis[i] == 0) {
+                if(dfs(i, vis, adj)) return false; // cycle found
             }
         }
-
-        return true;
+        return true; // no cycle
     }
 
-    private boolean dfs(int node, int[] vis, ArrayList<ArrayList<Integer>> adj) {
+    private boolean dfs(int node, int vis[], ArrayList<ArrayList<Integer>> adj) 
+    {
+        vis[node] = 1; // visiting
 
-        vis[node] = 1; // mark as visiting
-
-        for (int adjNode : adj.get(node)) {
-
-            if (vis[adjNode] == 0) {
-                if (dfs(adjNode, vis, adj)) {
-                    return true;
-                }
-            } 
-            else if (vis[adjNode] == 1) {
-                return true; // cycle detected
+        for(int adjnode : adj.get(node)) {
+            if(vis[adjnode] == 0) {
+                if(dfs(adjnode, vis, adj)) return true;
+            }
+            else if(vis[adjnode] == 1) {
+                return true; // cycle
             }
         }
 
-        vis[node] = 2; // mark as fully processed
+        vis[node] = 2; // visited
         return false;
     }
 }
