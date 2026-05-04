@@ -23,6 +23,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
@@ -85,6 +86,7 @@ Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0233-number-of-digit-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -175,6 +177,7 @@ Leetcode Solutions
 | [0073-set-matrix-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/AakankshaGupta16/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AakankshaGupta16/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -355,6 +358,7 @@ Leetcode Solutions
 | [0130-surrounded-regions](https://github.com/AakankshaGupta16/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AakankshaGupta16/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
