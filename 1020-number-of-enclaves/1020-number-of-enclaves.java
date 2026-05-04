@@ -32,7 +32,6 @@ class Solution {
                     }
                 }
             }
-            
         }
         //BFS logic for marking all connected 1s
         while(!q.isEmpty())
@@ -61,7 +60,6 @@ class Solution {
                 cnt++;
             }
         }
-        return cnt;
-        
+        return cnt;  
     }
 }
