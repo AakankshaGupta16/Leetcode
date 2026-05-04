@@ -44,7 +44,7 @@ class Solution {
             {
                 int nrow=r+drow[i];
                 int ncol=c+dcol[i];
-                while(nrow>=0 && ncol>=0 && nrow<n && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1)
+                if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1)
                 {
                     vis[nrow][ncol]=1;
                     q.add(new Pair(nrow,ncol));
