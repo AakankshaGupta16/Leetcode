@@ -1,45 +1,39 @@
 class Pair
 {
-    int first, second;
-    public Pair(int first,int second)
+    int r,c;
+    Pair(int row, int column)
     {
-        this.first=first;
-        this.second=second;
+        this.r=row;
+        this.c=column;
     }
 }
-
 class Solution 
 {
     public int numIslands(char[][] grid) 
     {
-        int c = grid[0].length;
-        int r = grid.length;
-        int vis[][] = new int[r][c];
-        int cnt = 0;
-
-        for(int i=0;i<r;i++)
+        int cnt=0;
+        int row=grid.length;
+        int col=grid[0].length;
+        int vis[][]=new int[row][col];
+        for(int i=0;i<row;i++)
         {
-            for(int j=0;j<c;j++)
+            for(int j=0;j<col;j++)
             {
-                // add visited check
-                if(grid[i][j] == '1' && vis[i][j] == 0)
+                if(grid[row][col]==1 && vis[row][col]==0)
                 {
-                    bfs(i,j,grid,vis);
+                    bfs(vis,grid,row,col);
                     cnt++;
                 }
             }
         }
+        
         return cnt;
     }
-
-    private void bfs(int ro,int co,char grid[][],int vis[][] )
+    private static void bfs(int vis[][], int grid[][], int row,int col)
     {
-        vis[ro][co]=1;
         Queue<Pair> q=new LinkedList<>();
-
-        // push starting node
-        q.add(new Pair(ro, co));
-
+        vis[row][col]=1;
+        q.add(new Pair(row,col));
         int n=grid.length;
         int m=grid[0].length;
 
@@ -68,3 +62,4 @@ class Solution
         }
     }
 }
+
