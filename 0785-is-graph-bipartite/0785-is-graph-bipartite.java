@@ -8,24 +8,31 @@ class Solution {
         {
             if(color[i]==-1)
             {
-                if(dfs(i,0,graph,color)== false)
+                if(bfs(i,graph,color)== false)
                 return false;
             }
         }
         return true;
     }
-    private boolean dfs(int node, int clr, int graph[][],int color[])
+    private boolean bfs(int start, int graph[][],int color[])
     {
-        color[node]=clr;
-        for(int it: graph[node])
+        Queue<Integer> q=new LinkedList<>();
+        q.add(start);
+        color[start]=0;
+        while(!q.isEmpty())
         {
-            if(color[it]==-1)// Neighbor has NOT been visited yet.
-            {
-                if(dfs(it,1-clr,graph,color)==false)//give it opposite color & continue DFS
-                return false;
+           int node = q.poll();
+           for(int it:graph[node])
+           {
+            if(color[it]==-1)
+            {   
+                color[it] = 1 - color[node];
+                q.offer(it);
             }
-            else if(color[it]==clr)//If adjacent nodes ever get same color → graph is NOT bipartite.
+            else if (color[it]==color[node])
             return false;
+           }
+
         }
         return true;
     }
