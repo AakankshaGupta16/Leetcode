@@ -32,10 +32,8 @@ class Solution {
                 if(indegree[neigh]==0)
                 q.offer(neigh);
             }
-
         }
         return c==numCourses;
-
     }
 }
         
