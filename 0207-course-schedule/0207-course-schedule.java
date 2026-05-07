@@ -2,41 +2,40 @@ class Solution {
 
     public boolean canFinish(int numCourses, int[][] prerequisites) 
     {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < numCourses; i++) {
+        ArrayList<ArrayList<Integer>> adj =new ArrayList<>();
+        for(int i=0;i<numCourses;i++)
+        {
             adj.add(new ArrayList<>());
         }
-
-        for(int e[] : prerequisites) {
-            int u = e[0];
-            int v = e[1];
-            adj.get(v).add(u); // v -> u
+        int[] indegree = new int[numCourses];
+        for(int [] edge: prerequisites)
+        {
+            int c=edge[0];
+            int p=edge[1];
+            adj.get(p).add(c);
+            indegree[c]++;//count number of prerequisistes needed for a course
         }
-
-        int vis[] = new int[numCourses]; // 0,1,2 states
-
-        for(int i = 0; i < numCourses; i++) {
-            if(vis[i] == 0) {
-                if(dfs(i, vis, adj)) return false; // cycle found
-            }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<numCourses;i++)
+        {
+            if(indegree[i]==0)
+            q.offer(i);
         }
-        return true; // no cycle
-    }
-
-    private boolean dfs(int node, int vis[], ArrayList<ArrayList<Integer>> adj) 
-    {
-        vis[node] = 1; // visiting
-
-        for(int adjnode : adj.get(node)) {
-            if(vis[adjnode] == 0) {
-                if(dfs(adjnode, vis, adj)) return true;
+        int c=0;
+        while(!q.isEmpty())
+        {
+            int node=q.poll();
+            c++;
+            for(int neigh:adj.get(node))
+            {
+                indegree[neigh]--;
+                if(indegree[neigh]==0)
+                q.offer(neigh);
             }
-            else if(vis[adjnode] == 1) {
-                return true; // cycle
-            }
+
         }
+        return c==numCourses;
 
-        vis[node] = 2; // visited
-        return false;
     }
 }
+        
