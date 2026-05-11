@@ -1,43 +1,30 @@
 class Solution {
-    public int[] separateDigits(int[] nums) 
-    {
-        
-        ArrayList<Integer> ans=new ArrayList<>();
-        for(int i=0;i<nums.length;i++)
-        {
-            ArrayList<Integer> arr=new ArrayList<>();
-            arr=seperate(nums[i]);
-            for( int j: arr)
-            {
-                ans.add(j);
+
+    public int[] separateDigits(int[] nums) {
+
+        ArrayList<Integer> ans = new ArrayList<>();
+
+        for (int num : nums) {
+
+            ArrayList<Integer> temp = new ArrayList<>();
+
+            while (num > 0) {
+                temp.add(num % 10);
+                num /= 10;
+            }
+
+            // reverse order
+            for (int i = temp.size() - 1; i >= 0; i--) {
+                ans.add(temp.get(i));
             }
         }
 
-        int[] ansarr = new int[ans.size()];
+        int[] res = new int[ans.size()];
 
-        for (int i = 0; i < ans.size(); i++) 
-        {
-            ansarr[i] = ans.get(i);
+        for (int i = 0; i < ans.size(); i++) {
+            res[i] = ans.get(i);
         }
 
-        return ansarr;
-    }
-    private ArrayList<Integer> seperate(int num)
-    {
-        
-        ArrayList<Integer> sep=new ArrayList<>();
-        String s = String.valueOf(num);
-
-        // string -> char array
-        char[] arr = s.toCharArray();
-
-        // char -> int
-        for (char c : arr) 
-        {
-            int digit = c - '0';
-            sep.add(digit);
-        }
-        return sep;
-
+        return res;
     }
 }
