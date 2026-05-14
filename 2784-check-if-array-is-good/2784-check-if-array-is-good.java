@@ -5,27 +5,12 @@ class Solution {
 
         int n = nums.length;
 
-        int hash[] = new int[n];
-
-        for(int i = 0; i < n; i++)   // start from 0
+        for(int i = 0; i < n - 1; i++)
         {
-            int x = nums[i];
-
-            if(x >= n || x <= 0)     // invalid number check
-                return false;
-
-            hash[x]++;
-        }
-
-        for(int i = 1; i < n - 1; i++)   // 1 to n-2 should appear once
-        {
-            if(hash[i] != 1)
+            if(nums[i] != i + 1)
                 return false;
         }
 
-        if(hash[n - 1] == 2)   // last number should appear twice
-            return true;
-
-        return false;
+        return nums[n - 1] == n - 1;
     }
 }
