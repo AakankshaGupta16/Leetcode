@@ -9,12 +9,10 @@ class Solution
         long even=(n+1)/2;
         long odd=n/2;
         long ans= (pow(5,even)*pow(4,odd)) % MOD;
-        return (int) ans;
-       
+        return (int) ans; 
     }
-    public long pow(long x,long n)
-    {
-        
+    public long pow(long x,long n)// recursive logic for power
+    { 
         if(n==0)
         return 1;
         long half=pow(x,n/2);
@@ -22,6 +20,5 @@ class Solution
         return (half*half)%MOD;
         else 
         return (half*half)*x %MOD;
-
     }
 }
