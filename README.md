@@ -232,6 +232,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0233-number-of-digit-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
@@ -353,6 +354,7 @@ Leetcode Solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
