@@ -1,31 +1,29 @@
-import java.util.*;
-
-class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, new StringBuilder(), 0, 0, n);
-        return result;
+class Solution 
+{
+    int n;
+    List<String> ans=new ArrayList();
+    public List<String> generateParenthesis(int n) 
+    {
+        this.n=n;
+        solve("",0,0);
+        return ans;
     }
-
-    private void backtrack(List<String> result, StringBuilder current, int open, int close, int max) {
-        // base case: if the current string is complete
-        if (current.length() == max * 2) {
-            result.add(current.toString());
+    public void solve(String str, int open,int close)
+    {
+        if(open == n && close == n)
+        {
+            ans.add(str);
             return;
         }
-
-        // if we can still add '('
-        if (open < max) {
-            current.append('(');
-            backtrack(result, current, open + 1, close, max);
-            current.deleteCharAt(current.length() - 1); // undo
+        if(open<n)
+        {
+            solve(str+"(",open+1,close);
+   
+        }
+        if(close<open)
+        {
+           solve(str+")",open,close+1);
         }
 
-        // if we can add ')'
-        if (close < open) {
-            current.append(')');
-            backtrack(result, current, open, close + 1, max);
-            current.deleteCharAt(current.length() - 1); // undo
-        }
     }
 }
