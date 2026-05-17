@@ -32,6 +32,7 @@ Leetcode Solutions
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -396,6 +397,7 @@ Leetcode Solutions
 | [0785-is-graph-bipartite](https://github.com/AakankshaGupta16/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AakankshaGupta16/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -422,6 +424,7 @@ Leetcode Solutions
 | [0802-find-eventual-safe-states](https://github.com/AakankshaGupta16/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
