@@ -55,6 +55,7 @@ Leetcode Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -92,6 +93,7 @@ Leetcode Solutions
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AakankshaGupta16/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AakankshaGupta16/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -135,6 +137,7 @@ Leetcode Solutions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AakankshaGupta16/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AakankshaGupta16/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -352,6 +355,7 @@ Leetcode Solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
