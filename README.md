@@ -10,6 +10,7 @@ Leetcode Solutions
 | [0016-3sum-closest](https://github.com/AakankshaGupta16/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -358,6 +359,7 @@ Leetcode Solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
