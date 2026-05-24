@@ -36,6 +36,7 @@ Leetcode Solutions
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -122,6 +123,7 @@ Leetcode Solutions
 | [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AakankshaGupta16/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -294,6 +296,7 @@ Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/AakankshaGupta16/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
