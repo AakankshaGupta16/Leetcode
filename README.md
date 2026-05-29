@@ -71,6 +71,7 @@ Leetcode Solutions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -278,6 +279,7 @@ Leetcode Solutions
 | [1922-count-good-numbers](https://github.com/AakankshaGupta16/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
