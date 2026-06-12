@@ -77,6 +77,7 @@ Leetcode Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -139,6 +140,7 @@ Leetcode Solutions
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -290,6 +292,7 @@ Leetcode Solutions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -353,6 +356,7 @@ Leetcode Solutions
 | [1009-complement-of-base-10-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AakankshaGupta16/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AakankshaGupta16/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +444,7 @@ Leetcode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +463,7 @@ Leetcode Solutions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
