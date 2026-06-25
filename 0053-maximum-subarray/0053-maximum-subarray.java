@@ -14,7 +14,7 @@ class Solution {
             }
         }
         return sum;
-        */
+        
         int currsum=0;
         int maxsum= Integer.MIN_VALUE;
         for(int i=0;i<n;i++)
@@ -23,6 +23,29 @@ class Solution {
             maxsum=Math.max(maxsum,currsum);
         }
         return maxsum;
+
+        */
+        int start=0,ansstart=0,ansend=0;
+        int currsum=0;int maxsum = Integer.MIN_VALUE;
         
+        for(int i=0;i<n;i++)
+        {
+            if(currsum==0)
+            start=i;
+            currsum=currsum+nums[i];
+            if(currsum>maxsum)
+            {
+                maxsum=currsum;
+                ansstart=start;
+                ansend=i;
+            }
+            if(currsum <0)
+            {
+                currsum=0;
+            }
+
+        }
+        return maxsum;
+
     }
 }
