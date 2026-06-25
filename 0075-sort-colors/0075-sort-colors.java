@@ -1,7 +1,7 @@
 class Solution {
     public void sortColors(int[] nums) 
     {
-        int n=nums.length;
+       /* int n=nums.length;
         int cnt1=0,cnt0=0,cnt2=0;
         for(int i=0;i<n;i++)
         {
@@ -27,7 +27,27 @@ class Solution {
                 nums[k++]=2;
                 cnt2--;
             }
-        
+        */
+        int l=0,mid=0,h=nums.length-1;
+        while(mid<=h)
+        {
+            if(nums[mid]==0)
+            {
+                int t=nums[mid];
+                nums[mid]=nums[l];
+                nums[l]=t;
+                l++;mid++;
+            }
+            else if(nums[mid]==1)
+            mid++;
+            else
+            {
+                int t=nums[h];
+                nums[h]=nums[mid];
+                nums[mid]=t;
+                h--;
+            }
+        }
         
     }
 }
