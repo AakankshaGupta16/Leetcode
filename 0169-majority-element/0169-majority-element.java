@@ -1,30 +1,30 @@
 class Solution {
-    public int majorityElement(int[] arr) 
+    public int majorityElement(int[] nums) 
     {
-        int candidate=0;int c=0;
-        int n=arr.length;
-
+        int n=nums.length;
+        int c=0;int el=0;
         for(int i=0;i<n;i++)
         {
-
-            if(c==0) 
+            if(c==0)
             {
-                candidate=arr[i];
+                el=nums[i];
                 c=1;
             }
-            else if(candidate==arr[i]) c++;
+            else if(nums[i]==el)
+            c++;
             else c--;
         }
-        int count=0;
+        int k=0;
         for(int i=0;i<n;i++)
         {
-            if(arr[i]==candidate) 
-            count++;
+            if(nums[i]==el)
+            {
+                k++;
+            } 
         }
-        if(count>n/2)
-        return candidate;
+        if(k>n/2)
+        return el;
         else return -1;
-
         
     }
 }
