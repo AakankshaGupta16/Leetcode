@@ -7,6 +7,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AakankshaGupta16/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -154,6 +155,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AakankshaGupta16/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AakankshaGupta16/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/AakankshaGupta16/Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -322,6 +324,7 @@ Leetcode Solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AakankshaGupta16/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/AakankshaGupta16/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0169-majority-element/) | Easy |
