@@ -7,10 +7,9 @@ class Solution {
         {
             int ex=target-nums[i];
             if(map.containsKey(ex))
-            return new int[]{i,map.get(ex)};   
+            return new int[]{i,map.get(ex)};
             map.put(nums[i],i);
         }
         return new int[]{-1,-1};
-        
     }
 }
