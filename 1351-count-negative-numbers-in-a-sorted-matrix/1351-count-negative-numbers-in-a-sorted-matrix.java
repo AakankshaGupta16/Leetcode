@@ -1,6 +1,7 @@
 class Solution {
     public int countNegatives(int[][] grid) 
     {
+        // two pointersolution
         int n=grid.length;
         int m=grid[0].length;
         int row=n-1;
