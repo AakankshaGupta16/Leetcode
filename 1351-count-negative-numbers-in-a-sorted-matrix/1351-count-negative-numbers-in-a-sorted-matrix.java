@@ -1,6 +1,7 @@
 class Solution {
     public int countNegatives(int[][] grid) 
     {
+        // uses binary search
         int c=0;
         for(int row[]: grid)
         {
