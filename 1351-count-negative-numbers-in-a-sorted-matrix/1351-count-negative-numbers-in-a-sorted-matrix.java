@@ -1,23 +1,23 @@
 class Solution {
     public int countNegatives(int[][] grid) 
     {
-        // uses binary search
+        int n=grid.length;
+        int m=grid[0].length;
+        int row=n-1;
+        int col=0;
         int c=0;
-        for(int row[]: grid)
+        while(row>=0 && col<m)
         {
-            int l=0;
-            int h=row.length-1;
-            while(l<=h)
+            if(grid[row][col]<0)
             {
-                int mid=(l+h)/2;
-                if(row[mid]<0)
-                h=mid-1;
-                else 
-                l=mid+1;
+                c+=m-col;
+                row--;
             }
-            c+=row.length-l;
+            else
+            {
+                col++;
+            }
         }
         return c;
-        
     }
 }
