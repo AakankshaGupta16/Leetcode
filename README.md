@@ -71,6 +71,7 @@ Leetcode Solutions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AakankshaGupta16/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AakankshaGupta16/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AakankshaGupta16/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AakankshaGupta16/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/AakankshaGupta16/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -252,6 +253,7 @@ Leetcode Solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@ Leetcode Solutions
 | [1914-cyclically-rotating-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AakankshaGupta16/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -405,6 +408,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bucket Sort
@@ -420,6 +424,7 @@ Leetcode Solutions
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/AakankshaGupta16/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AakankshaGupta16/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -511,6 +516,7 @@ Leetcode Solutions
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Enumeration
