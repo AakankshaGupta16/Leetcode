@@ -40,6 +40,7 @@ Leetcode Solutions
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/AakankshaGupta16/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -147,6 +148,7 @@ Leetcode Solutions
 | [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/AakankshaGupta16/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -274,6 +276,7 @@ Leetcode Solutions
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/AakankshaGupta16/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
