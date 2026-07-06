@@ -8,9 +8,9 @@ class Solution {
             if(nums[mid]==target)
             return mid;
             else if(nums[mid]<target)
-                l++;
+                l=mid+1;
             else 
-                h--;
+                h=mid-1;
         }
         return -1;
         
