@@ -1,17 +1,18 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        return binarySearch(nums, 0, nums.length - 1, target);
-    }
-
-    int binarySearch(int[] nums, int low, int high, int target) {
-        if (low > high) return -1;
-
-        int mid = low + (high - low) / 2;
-
-        if (nums[mid] == target) return mid;
-        else if (nums[mid] < target)
-            return binarySearch(nums, mid + 1, high, target);
-        else
-            return binarySearch(nums, low, mid - 1, target);
+    public int search(int[] nums, int target) 
+    {
+        int l=0,h=nums.length-1;
+        while(l<=h)
+        {
+            int mid=(h+l)/2;
+            if(nums[mid]==target)
+            return mid;
+            else if(nums[mid]<target)
+                l++;
+            else 
+                h--;
+        }
+        return -1;
+        
     }
 }
