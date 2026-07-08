@@ -35,6 +35,7 @@ Leetcode Solutions
 | [0283-move-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/AakankshaGupta16/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -453,6 +454,7 @@ Leetcode Solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/AakankshaGupta16/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AakankshaGupta16/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
