@@ -2,60 +2,53 @@ class Solution
 {
     public int minDays(int[] bloomDay, int m, int k) 
     {
-        if ((long)m * k > bloomDay.length)
-            return -1;
-
-        int min = bloomDay[0];
-        int max = bloomDay[0];
-
-        for (int day : bloomDay)
-        {
-            min = Math.min(min, day);
-            max = Math.max(max, day);
-        }
-
-        int low = min;
-        int high = max;
-        int ans = -1;
-
-        while (low <= high)
-        {
-            int mid = low + (high - low) / 2;
-
-            if (possible(bloomDay, mid, m, k))
+       
+       int min=bloomDay[0];
+       int max=bloomDay[0];
+       int n=bloomDay.length;
+       for(int i=0;i<n;i++)
+       {
+            if(bloomDay[i]>max) max=bloomDay[i];
+            if(bloomDay[i]<min) min=bloomDay[i];
+       }
+       int l=min,h=max;
+       int mid;int ans=-1;
+       if(n<(m*k)) return -1;
+       while(l<=h)
+       {
+            mid=(l+h)/2;
+            if(possible(bloomDay,mid,m,k))
             {
-                ans = mid;
-                high = mid - 1;
+                ans=mid;
+                h=mid-1;
             }
             else
             {
-                low = mid + 1;
+                l=mid+1;
             }
-        }
-
-        return ans;
+       }
+       return ans;
     }
-
-    public boolean possible(int[] arr, int day, int m, int k)
+    private boolean possible(int arr[],int day,int m,int k)
     {
-        int cnt = 0;
-        int bouquets = 0;
-
-        for (int flower : arr)
+        int noofb=0;
+        int cnt=0;
+        for(int i=0;i<arr.length;i++)
         {
-            if (flower <= day)
+            if(arr[i]<=day)
             {
                 cnt++;
             }
             else
             {
-                bouquets += cnt / k;
-                cnt = 0;
+                noofb+=cnt/k;
+                cnt=0;
             }
+
         }
+        noofb+=cnt/k;
+        if(noofb<m) return false;
+        else return true;
 
-        bouquets += cnt / k;
-
-        return bouquets >= m;
     }
 }
