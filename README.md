@@ -45,6 +45,7 @@ Leetcode Solutions
 | [0875-koko-eating-bananas](https://github.com/AakankshaGupta16/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AakankshaGupta16/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AakankshaGupta16/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -265,6 +266,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -355,6 +357,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AakankshaGupta16/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -472,6 +475,7 @@ Leetcode Solutions
 | [0704-binary-search](https://github.com/AakankshaGupta16/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AakankshaGupta16/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AakankshaGupta16/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AakankshaGupta16/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
