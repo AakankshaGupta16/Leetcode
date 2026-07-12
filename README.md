@@ -51,6 +51,7 @@ Leetcode Solutions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AakankshaGupta16/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AakankshaGupta16/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -129,6 +130,7 @@ Leetcode Solutions
 | [0268-missing-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AakankshaGupta16/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -381,6 +383,7 @@ Leetcode Solutions
 | [0242-valid-anagram](https://github.com/AakankshaGupta16/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
