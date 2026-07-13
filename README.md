@@ -596,6 +596,7 @@ Leetcode Solutions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
