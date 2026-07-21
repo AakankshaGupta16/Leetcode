@@ -1,36 +1,41 @@
 class Solution {
+    public int maxActiveSectionsAfterTrade(String s) 
+    {
+       
+        int countOnes =0;
+        int maxgain=0;
+        ArrayList<Character> run=new ArrayList<>();
+        ArrayList<Integer> len=new ArrayList<>();
+        char[] charArr = s.toCharArray(); 
+        for( char c: charArr)
+        {
+            if(c=='1') countOnes++;
 
-    public int maxActiveSectionsAfterTrade(String s) {
-        int n = s.length();
-        int cnt1 = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '1') cnt1++;
         }
-
-        List<Integer> zeroBlocks = new ArrayList<>();
-        int i = 0;
-        while (i < n) {
-            int start = i;
-            while (i < n && s.charAt(i) == s.charAt(start)) {
-                i++;
+        String t="1"+s+"1";
+        int i=0;
+        while(i<t.length())
+        {
+            char curr=t.charAt(i);
+            int j=i;
+            while(j<t.length() && curr==t.charAt(j))
+            {
+                j++;
             }
-            if (s.charAt(start) == '0') {
-                zeroBlocks.add(i - start);
+            run.add(curr);
+            len.add(j-i);
+            i=j;
+        }
+    
+        for (int k = 1; k < run.size() - 1; k++)
+        {
+            if(run.get(k)=='1' && run.get(k-1)=='0' && run.get(k+1)=='0')
+            {
+                int gain=len.get(k-1)+ len.get(k+1);  
+                maxgain=Math.max(gain,maxgain);  
             }
+         
         }
-
-        int m = zeroBlocks.size();
-        if (m < 2) {
-            return cnt1;
-        }
-        int bestGain = 0; // Optimal Increment
-        for (int j = 0; j < m - 1; j++) {
-            bestGain = Math.max(
-                bestGain,
-                zeroBlocks.get(j) + zeroBlocks.get(j + 1)
-            );
-        }
-
-        return cnt1 + bestGain;
+        return maxgain+countOnes;
     }
 }
