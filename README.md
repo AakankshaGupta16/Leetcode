@@ -647,6 +647,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
