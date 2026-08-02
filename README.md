@@ -174,6 +174,7 @@ Leetcode Solutions
 | [0396-rotate-function](https://github.com/AakankshaGupta16/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/AakankshaGupta16/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/AakankshaGupta16/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -245,6 +246,7 @@ Leetcode Solutions
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/AakankshaGupta16/Leetcode/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -441,6 +443,7 @@ Leetcode Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/AakankshaGupta16/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -460,6 +463,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AakankshaGupta16/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/AakankshaGupta16/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
