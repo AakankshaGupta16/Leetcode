@@ -11,11 +11,10 @@ class Solution {
                 l++;
                 h++;
             }
-            else if (ch==')')
+            else if(ch==')')
             {
                 l--;
                 h--;
-
             }
             else if(ch=='*')
             {
@@ -24,10 +23,8 @@ class Solution {
             }
             if(h<0) return false;
             if(l<0) l=0;
-
         }
         if(l==0) return true;
         else return false;
-        
     }
 }
