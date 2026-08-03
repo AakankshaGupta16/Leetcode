@@ -27,6 +27,7 @@ Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/AakankshaGupta16/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -455,6 +456,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0078-subsets](https://github.com/AakankshaGupta16/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
