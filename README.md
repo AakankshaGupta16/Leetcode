@@ -211,6 +211,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AakankshaGupta16/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AakankshaGupta16/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AakankshaGupta16/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -667,6 +668,7 @@ Leetcode Solutions
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
