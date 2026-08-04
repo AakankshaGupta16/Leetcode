@@ -702,4 +702,5 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AakankshaGupta16/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0595-big-countries](https://github.com/AakankshaGupta16/Leetcode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
