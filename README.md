@@ -698,4 +698,8 @@ Leetcode Solutions
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AakankshaGupta16/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1406-stone-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/AakankshaGupta16/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
