@@ -706,4 +706,8 @@ Leetcode Solutions
 | [0595-big-countries](https://github.com/AakankshaGupta16/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/AakankshaGupta16/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AakankshaGupta16/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
