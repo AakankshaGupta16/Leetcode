@@ -4,7 +4,8 @@ class Solution {
         HashMap<Character,Integer> map=new HashMap<>();
         int l=0;
         int maxlen=0;
-        for(int r=0;r<s.length();r++)
+        int n=s.length();
+        for(int r=0;r<n;r++)
         {
             char ch=s.charAt(r);
             if(map.containsKey(ch))
@@ -13,6 +14,5 @@ class Solution {
             maxlen=Math.max(maxlen,r-l+1);
         }
         return maxlen;
-        
     }
 }
