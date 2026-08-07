@@ -25,7 +25,6 @@ class Solution
             {
                 if(!vis[i])
                 {
-                    vis[i]=true;
                     dfs(i,vis,isConnected,n);
                 }
             }
