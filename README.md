@@ -190,6 +190,7 @@ Leetcode Solutions
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AakankshaGupta16/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -218,6 +219,7 @@ Leetcode Solutions
 | [1861-rotating-the-box](https://github.com/AakankshaGupta16/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AakankshaGupta16/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/AakankshaGupta16/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -276,6 +278,7 @@ Leetcode Solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AakankshaGupta16/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -484,6 +487,7 @@ Leetcode Solutions
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AakankshaGupta16/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
