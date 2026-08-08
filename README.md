@@ -171,6 +171,7 @@ Leetcode Solutions
 | [0005-longest-palindromic-substring](https://github.com/AakankshaGupta16/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakankshaGupta16/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AakankshaGupta16/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -360,6 +361,7 @@ Leetcode Solutions
 | [0048-rotate-image](https://github.com/AakankshaGupta16/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AakankshaGupta16/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0233-number-of-digit-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/AakankshaGupta16/Leetcode/tree/main/0258-add-digits/) | Easy |
@@ -719,4 +721,8 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
