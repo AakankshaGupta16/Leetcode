@@ -758,4 +758,8 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
