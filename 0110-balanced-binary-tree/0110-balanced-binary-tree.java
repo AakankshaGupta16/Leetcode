@@ -16,25 +16,21 @@
 class Solution {
     public boolean isBalanced(TreeNode root) 
     {
-        if(root==null) return true;
-        int lh=height(root.left);
-        int rh=height(root.right);
-        if(Math.abs(rh-lh)>1) return false;
-        boolean left=isBalanced(root.left);
-        boolean right=isBalanced(root.right);
-        if(!left || !right) return false;
-        return true;
-
-        
+        return dfsheight(root)!=-1;
     }
-    public int height(TreeNode node)
+    public int dfsheight(TreeNode root)
     {
-        if(node == null)
-            return 0;
+        if(root==null) return 0;
+        int l=dfsheight(root.left);
+        if(l==-1) return -1;
+        int r=dfsheight(root.right);
+        if(r==-1) return -1;
+        if(Math.abs(r-l)>1) return -1;
+        return Math.max(l,r)+1;
 
-        int left = height(node.left);
-        int right = height(node.right);
-
-        return 1 + Math.max(left, right);
     }
+
 }
+
+
+
