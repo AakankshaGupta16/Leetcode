@@ -645,6 +645,7 @@ Leetcode Solutions
 | [0110-balanced-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -657,6 +658,7 @@ Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/AakankshaGupta16/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/AakankshaGupta16/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -679,6 +681,7 @@ Leetcode Solutions
 | [0110-balanced-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,4 +820,8 @@ Leetcode Solutions
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
