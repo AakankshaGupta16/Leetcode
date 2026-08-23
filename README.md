@@ -297,6 +297,7 @@ Leetcode Solutions
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AakankshaGupta16/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/AakankshaGupta16/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AakankshaGupta16/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AakankshaGupta16/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -412,6 +413,7 @@ Leetcode Solutions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/AakankshaGupta16/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [1927-sum-game](https://github.com/AakankshaGupta16/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -531,6 +533,7 @@ Leetcode Solutions
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/AakankshaGupta16/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AakankshaGupta16/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AakankshaGupta16/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AakankshaGupta16/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -778,6 +781,7 @@ Leetcode Solutions
 | [1140-stone-game-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/AakankshaGupta16/Leetcode/tree/main/1927-sum-game/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
