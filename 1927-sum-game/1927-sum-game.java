@@ -2,12 +2,7 @@ class Solution {
     public boolean sumGame(String num) 
     {
         int n=num.length();
-        int h;
-
-        if(n%2==0)
-        h=n/2;
-        else
-        h=n/2+1;
+        int h=n/2;
         int s1=0,s2=0;
         int q1=0,q2=0;
         for(int i=0;i<h;i++)
