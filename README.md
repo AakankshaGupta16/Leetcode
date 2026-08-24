@@ -83,6 +83,7 @@ Leetcode Solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AakankshaGupta16/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AakankshaGupta16/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -211,6 +212,7 @@ Leetcode Solutions
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AakankshaGupta16/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AakankshaGupta16/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -412,6 +414,7 @@ Leetcode Solutions
 | [1406-stone-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/AakankshaGupta16/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
@@ -441,6 +444,7 @@ Leetcode Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AakankshaGupta16/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -784,6 +788,7 @@ Leetcode Solutions
 | [1140-stone-game-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/AakankshaGupta16/Leetcode/tree/main/1927-sum-game/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -806,11 +811,13 @@ Leetcode Solutions
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
