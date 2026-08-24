@@ -830,6 +830,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AakankshaGupta16/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
