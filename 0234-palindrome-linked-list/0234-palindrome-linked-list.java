@@ -11,32 +11,26 @@
 class Solution {
     public boolean isPalindrome(ListNode head) 
     {
-        ListNode slow=head,fast=head;
-        while(fast!=null && fast.next!=null)
+        ListNode temp=head;
+        Stack <Integer> st=new Stack<>();
+        while(temp!=null)
         {
-            slow=slow.next;
-            fast=fast.next.next;
+            st.push(temp.val);
+            temp=temp.next;
         }
-        ListNode prev=null;
-        ListNode curr=slow;
-        while(curr!=null)
+        temp=head;
+        while(temp!=null)
         {
-            ListNode front=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=front;
-        }
-        ListNode first = head;
-        ListNode second = prev;
-        while(second != null)
-        {
-            if(first.val != second.val)
-                return false;
+            int x=st.pop();
+            if(temp.val==x)
+            {
+                temp=temp.next;
+            }
+            else 
+            return false;
+            
 
-            first = first.next;
-            second = second.next;
         }
-        
         return true;
     }
 }
