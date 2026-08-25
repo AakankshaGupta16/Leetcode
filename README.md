@@ -632,6 +632,7 @@ Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0233-number-of-digit-one](https://github.com/AakankshaGupta16/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -758,6 +759,7 @@ Leetcode Solutions
 | [0061-rotate-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AakankshaGupta16/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AakankshaGupta16/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
