@@ -183,6 +183,7 @@ Leetcode Solutions
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AakankshaGupta16/Leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AakankshaGupta16/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/AakankshaGupta16/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AakankshaGupta16/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Divide and Conquer
@@ -324,6 +325,7 @@ Leetcode Solutions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AakankshaGupta16/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/AakankshaGupta16/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
@@ -503,6 +505,7 @@ Leetcode Solutions
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/AakankshaGupta16/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AakankshaGupta16/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AakankshaGupta16/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +562,7 @@ Leetcode Solutions
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AakankshaGupta16/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AakankshaGupta16/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -741,6 +745,7 @@ Leetcode Solutions
 | [3345-smallest-divisible-digit-product-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AakankshaGupta16/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
