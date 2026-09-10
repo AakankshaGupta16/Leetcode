@@ -695,6 +695,7 @@ Leetcode Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AakankshaGupta16/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -718,6 +719,7 @@ Leetcode Solutions
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AakankshaGupta16/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AakankshaGupta16/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AakankshaGupta16/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AakankshaGupta16/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/AakankshaGupta16/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -733,6 +735,7 @@ Leetcode Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AakankshaGupta16/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AakankshaGupta16/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
