@@ -172,6 +172,7 @@ Leetcode Solutions
 | [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/AakankshaGupta16/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AakankshaGupta16/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -316,6 +317,7 @@ Leetcode Solutions
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -510,6 +512,7 @@ Leetcode Solutions
 | [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -580,6 +583,7 @@ Leetcode Solutions
 | [0860-lemonade-change](https://github.com/AakankshaGupta16/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AakankshaGupta16/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AakankshaGupta16/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AakankshaGupta16/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
