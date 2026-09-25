@@ -171,6 +171,7 @@ Leetcode Solutions
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AakankshaGupta16/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AakankshaGupta16/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/AakankshaGupta16/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -319,6 +320,7 @@ Leetcode Solutions
 | [0940-distinct-subsequences-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -358,6 +360,7 @@ Leetcode Solutions
 | [0078-subsets](https://github.com/AakankshaGupta16/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AakankshaGupta16/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -515,6 +518,7 @@ Leetcode Solutions
 | [0435-non-overlapping-intervals](https://github.com/AakankshaGupta16/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/AakankshaGupta16/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/AakankshaGupta16/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AakankshaGupta16/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -561,6 +565,7 @@ Leetcode Solutions
 | [0735-asteroid-collision](https://github.com/AakankshaGupta16/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AakankshaGupta16/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -780,6 +785,7 @@ Leetcode Solutions
 | [0802-find-eventual-safe-states](https://github.com/AakankshaGupta16/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/AakankshaGupta16/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AakankshaGupta16/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/AakankshaGupta16/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
