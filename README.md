@@ -316,6 +316,7 @@ Leetcode Solutions
 | [0205-isomorphic-strings](https://github.com/AakankshaGupta16/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AakankshaGupta16/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AakankshaGupta16/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AakankshaGupta16/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -366,6 +367,7 @@ Leetcode Solutions
 | [0078-subsets](https://github.com/AakankshaGupta16/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AakankshaGupta16/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AakankshaGupta16/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -787,6 +789,7 @@ Leetcode Solutions
 | [0130-surrounded-regions](https://github.com/AakankshaGupta16/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AakankshaGupta16/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AakankshaGupta16/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/AakankshaGupta16/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AakankshaGupta16/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/AakankshaGupta16/Leetcode/tree/main/0733-flood-fill/) | Easy |
