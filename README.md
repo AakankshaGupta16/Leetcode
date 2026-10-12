@@ -111,6 +111,7 @@ Leetcode Solutions
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AakankshaGupta16/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AakankshaGupta16/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AakankshaGupta16/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AakankshaGupta16/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/AakankshaGupta16/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AakankshaGupta16/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -188,6 +189,7 @@ Leetcode Solutions
 | [2615-sum-of-distances](https://github.com/AakankshaGupta16/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AakankshaGupta16/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AakankshaGupta16/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AakankshaGupta16/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AakankshaGupta16/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/AakankshaGupta16/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AakankshaGupta16/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -592,6 +594,7 @@ Leetcode Solutions
 | [1009-complement-of-base-10-integer](https://github.com/AakankshaGupta16/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AakankshaGupta16/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AakankshaGupta16/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AakankshaGupta16/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AakankshaGupta16/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -622,6 +625,7 @@ Leetcode Solutions
 | [2333-minimum-sum-of-squared-difference](https://github.com/AakankshaGupta16/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AakankshaGupta16/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/AakankshaGupta16/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AakankshaGupta16/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AakankshaGupta16/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AakankshaGupta16/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AakankshaGupta16/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
